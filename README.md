@@ -16,6 +16,6 @@
 
 7. 🧐 **Key Takeaways:**
 
-- Understanding when and where incidents are likely to occur can help allocate resources effectively.
-- Breed-specific insights can inform targeted interventions and policies.
-- Long-term trends can guide public awareness campaigns and educational efforts.
+                  - Understanding when and where incidents are likely to occur can help allocate resources effectively.
+                  - Breed-specific insights can inform targeted interventions and policies.
+                  - Long-term trends can guide public awareness campaigns and educational efforts.

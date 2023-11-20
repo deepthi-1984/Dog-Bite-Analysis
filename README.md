@@ -13,8 +13,8 @@
 
 6. **Correlation Analysis:** We explored relationships within the dataset, uncovering factors that may contribute to incidents.
 
-7. **Feature Engineering:** To improve our analysis, we engineered new features, enhancing our predictive capabilities.
-8. 🧐 **Key Takeaways:**
+
+7. 🧐 **Key Takeaways:**
 
 - Understanding when and where incidents are likely to occur can help allocate resources effectively.
 - Breed-specific insights can inform targeted interventions and policies.
